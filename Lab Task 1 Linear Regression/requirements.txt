@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+vega_datasets
+gradio
+flask
